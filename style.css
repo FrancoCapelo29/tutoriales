@@ -9,3 +9,8 @@ font-size: 70px;
 .cuerpo{
     background-color: rgb(194, 255, 103);
 }
+
+nav{
+    text-align: right;
+    padding: 30px 50px 0 0;
+}
